@@ -1,1 +1,2 @@
-git init //start 1 history
+git init //start 1 history 
+text text
